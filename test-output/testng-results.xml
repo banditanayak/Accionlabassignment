@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10723" started-at="2020-08-10T00:21:18 IST" finished-at="2020-08-10T00:21:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10723" started-at="2020-08-10T00:21:18 IST" finished-at="2020-08-10T00:21:29 IST">
+      <class name="Test.Assignment">
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:Test.Assignment@551aa95a]" name="FirstTest" is-config="true" duration-ms="7948" started-at="2020-08-10T00:21:18 IST" finished-at="2020-08-10T00:21:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method status="PASS" signature="ClickOnDiscoverLaw()[pri:0, instance:Test.Assignment@551aa95a]" name="ClickOnDiscoverLaw" duration-ms="2373" started-at="2020-08-10T00:21:26 IST" finished-at="2020-08-10T00:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDiscoverLaw -->
+        <test-method status="PASS" signature="Final()[pri:0, instance:Test.Assignment@551aa95a]" name="Final" is-config="true" duration-ms="338" started-at="2020-08-10T00:21:29 IST" finished-at="2020-08-10T00:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Final -->
+      </class> <!-- Test.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
